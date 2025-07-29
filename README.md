@@ -21,6 +21,13 @@
 
 ---
 
+### 🎓 Studies  
+
+- 🎓 Diploma in Computer Science  
+- 🚀 Full Stack Web Developer Bootcamp at [Booleaner](https://credsverse.com/credentials/0793860d-6835-482b-972e-de9c6123b5bd)  
+
+---
+
 ### 🛠️ Tech Stack  
 
 <p align="center">
@@ -46,7 +53,6 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </p>
 
-
 ---
 
 ### 🌐 Connect With Me  
@@ -69,16 +75,16 @@
   </a>
 </p>
 
-
 ---
 
- <p align="center">
+<p align="center">
   <img src="https://media1.tenor.com/m/s6eHxBGHvlIAAAAC/animation-cartoons.gif" width="400" alt="Boy coding on computer" />
 </p>
 
 <p align="center">
   <i>“Code. Learn. Build. Repeat.”</i>
 </p>
+
 
 
 
